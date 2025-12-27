@@ -183,15 +183,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is part of a technical assessment and is available for educational purposes.
-
-## 👤 Author
-
-**Vaishnavi P**
-- GitHub: [@pvaishnavi3](https://github.com/pvaishnavi3)
-
 ## 🙏 Acknowledgments
 
 - Built as part of the VectorShift Frontend Technical Assessment
